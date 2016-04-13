@@ -1,0 +1,56 @@
+.home {
+  color: $white;
+}
+
+//.about {
+//  text-align: center;
+//}
+
+h1 {
+  margin-bottom: 20px;
+  font-size: 3em;
+}
+
+h2 {
+  padding-bottom: 15px;
+  font-size: 2.5em;
+}
+
+.border1 {
+  margin: auto;
+  width: 700px;
+  border-bottom: $black 1px solid;
+}
+
+.border2 {
+  margin: auto;
+  width: 700px;
+  border-top: $deep 1px solid;
+}
+
+.about-header {
+  height: 30%;
+}
+
+.about-text {
+  height: 40%;
+  padding-top: 10px;
+}
+
+.skills {
+  float: right;
+  height: 30%;
+  max-width: 80%;
+  text-align: center;
+  margin-top: 50px;
+}
+
+.skillsImg {
+  width: 8%;
+  height: 8%;
+  margin: 0 15px;
+}
+
+p {
+  line-height: 25px;
+}

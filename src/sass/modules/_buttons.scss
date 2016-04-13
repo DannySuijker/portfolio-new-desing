@@ -1,0 +1,24 @@
+.arrow {
+  text-align: center;
+  border-top: 1px solid;
+}
+
+.arrow-up {
+  background: url('/src/img/arrows.png') no-repeat center center;
+  -webkit-transform: rotate(180deg);
+  -moz-transform: rotate(180deg);
+  -ms-transform: rotate(180deg);
+  -o-transform: rotate(180deg);
+  transform: rotate(180deg);
+  height: 50px;
+  width: 75px;
+  border: none;
+}
+
+.arrow-down {
+  background: url('/src/img/arrows.png') no-repeat center center;
+  height: 50px;
+  width: 75px;
+  border: none;
+}
+
